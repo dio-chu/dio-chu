@@ -1,6 +1,8 @@
-# Hi, I'm Dio Chu 👋
+# Hi, I'm Dio Chu(朱逸珉) 👋
 
-I'm a Front-End Developer with experience in creating engaging, responsive websites.
+任職於一零四資訊科技，擔任求才互動開發課(企業端)的Vue前端工程師
+曾任職於技嘉科技，負責 AI 智慧辨識產品的前端以及開發，有使用 pythonQT 整合 AI Model 和開發桌面應用程式的經驗。
+曾擔任設計師 UI/UX 設計能力，負責供應鏈碳風險管理系統的前端開發和 UI/UX 設計，累積各領域經驗，培養我用多元角度觀察問題與觸類旁通的能力。
 
 ## My Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript
